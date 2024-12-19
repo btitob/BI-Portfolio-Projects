@@ -1,4 +1,5 @@
 Aksel Co. Power BI Performance Report
+
 This Power BI project showcases various data visualization and analytical techniques, including:
 
 Switch Functionality: Enables Year-to-Date (YTD), Prior Year-to-Date (PYTD), and Year-over-Year (YoY) comparisons.
